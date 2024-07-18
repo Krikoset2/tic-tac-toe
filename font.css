@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('font.otf') format('opentype');
+}
+
+body {
+    font-family: 'CustomFont', Arial, sans-serif;
+}
